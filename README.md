@@ -33,7 +33,7 @@ The system monitors driver actions in real time and generates an objective perfo
 - **Game Engine:** Unity
 - **Programming Language:** C#
 - **Physics:** Unity Physics Engine
-- **Input Devices:** Keyboard / Steering Wheel (optional)
+- **Input Devices:** Keyboard / Logitech G29 Steering Wheel with pedals
 - **Platform:** Windows
 
 ---
