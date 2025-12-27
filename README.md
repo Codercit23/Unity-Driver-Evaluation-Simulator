@@ -44,8 +44,6 @@ Safe driving behavior results in higher scores.
 
 ---
 
-## 📷 Screenshots / Demo
-(Add screenshots or a demo video here)
 
 ---
 
